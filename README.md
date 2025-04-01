@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyaagrawal2
-- 👀 I’m interested in learning computer language
+- 👀 I’m interested in learning coading language
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on project related to real life
 - 📫 How to reach me ...
